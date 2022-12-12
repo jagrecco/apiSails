@@ -51,7 +51,8 @@ module.exports.datastores = {
    
 
   adapter: 'sails-mongo',
-  url: 'mongodb://localhost:27017/productoSails',
+  url:'mongodb://jag:Fj2TzgY2oVs0oFHY@ac-y6f6v8e-shard-00-00.k6leblk.mongodb.net:27017,ac-y6f6v8e-shard-00-01.k6leblk.mongodb.net:27017,ac-y6f6v8e-shard-00-02.k6leblk.mongodb.net:27017/test?ssl=true&replicaSet=atlas-h2bnty-shard-0&authSource=admin&retryWrites=true&w=majority'
+  /* url: 'mongodb://localhost:27017/productoSails', */
 
   },
 
